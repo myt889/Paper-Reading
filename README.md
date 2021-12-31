@@ -16,6 +16,6 @@ Part2  Uncertainty learning
        paper:https://proceedings.neurips.cc/paper/2020/file/f23d125da1e29e34c552f448610ff25f-Paper.pdf
 
 
-Part2 FAU related work
+Part3 FAU related work
     1. (NeurIPS 2020) Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition  
        paper:https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Cui2020a.pdf
